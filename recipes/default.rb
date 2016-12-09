@@ -11,7 +11,7 @@
 #
 
 execute "rngd" do
-	command "yum --enablerepo=ihg-RedHat-Repo install rng-tools -y"
+	command "yum install rng-tools -y"
 end
 
 template "/etc/sysconfig/rngd" do
