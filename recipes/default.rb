@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: jlj-entropy
+# Cookbook Name:: rhr-entropy
 # Recipe:: default
 #
 # Copyright 2014, YOUR_COMPANY_NAME
