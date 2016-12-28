@@ -1,11 +1,11 @@
-rhr-entropy CHANGELOG
+rhr_entropy CHANGELOG
 =====================
 
-This file is used to list changes made in each version of the rhr-entropy cookbook.
+This file is used to list changes made in each version of the rhr_entropy cookbook.
 
 0.1.0
 -----
-- [your_name] - Initial release of rhr-entropy
+- [your_name] - Initial release of rhr_entropy
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
