@@ -1,8 +1,8 @@
 pipeline {
 
 environment {
-  BUILD_SCRIPTS_GIT="http://10.100.100.10:7990/scm/~myname/mypipeline.git"
-  BUILD_SCRIPTS='mypipeline'
+  BUILD_SCRIPTS_GIT="https://github.com/redhatromero/rhr_entropy.git"
+  BUILD_SCRIPTS='rhr_entropy'
   BUILD_HOME='/var/lib/jenkins/workspace'
 }
 
