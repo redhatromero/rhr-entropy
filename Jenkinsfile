@@ -33,6 +33,6 @@ post {
   always {
     cleanWs()
     }
-}
+  }
 }
 }
